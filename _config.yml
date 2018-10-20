@@ -1,0 +1,19 @@
+
+title:               ZG+CD
+tagline:             got married
+url:                 https://zoeandconnor.com
+baseurl:             https://zoeandconnor.com
+permalink:           :title/
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+author:
+  name:              ZGCD
+  url:               zgandcd.github.io
+
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
