@@ -1,0 +1,18 @@
+<head>
+<style type="text/css">
+  {% capture include_to_scssify %}
+    {% include styles.scss %}
+  {% endcapture %}
+  {{ include_to_scssify | scssify }}
+</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/public/apple-icon-57x57.png">
+<link rel="shortcut icon" type="x-icon" href="{{ site.baseurl }}/public/favicon.ico">
+    <link rel="manifest" href="{{ site.baseurl }}/public/manifest.json">
+  
+  
+{% seo %}
+
+</head>
