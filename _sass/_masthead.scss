@@ -3,7 +3,7 @@
 // Super small header above the content for site name and short description.
 
 header {
-    background-color: $body-bg;
+  margin-bottom: 1rem;
 }
 
 header hr {
@@ -25,34 +25,42 @@ header h3 {
 }
 
 .masthead-title a {
+    color: inherit;
+    padding: 0.45rem;
+    float: right;
     display: block;
     text-align: center;
     text-decoration: none;
+    font-size: 1.3rem;
     color: $black;
+}
+
+.masthead-title a.home {
     padding: 0.33rem;
-    padding-bottom: 0;
-    float: right;
+    float: left;
     font-size: 1.5rem;
     opacity: 1;
 }
 
-.masthead-title a:hover {
-    opacity: 0.5;
+.masthead-title a.home:hover {
+    color: maroon;
     background-color: $body-bg;
 }
 
-.masthead-title small {
-    float: left;
-    padding-left:0.3rem;
-    padding-top: 0.7rem;
+.masthead-title a.home:hover small {
+    color: $black;
 }
 
+.masthead-title a:hover {
+    background-color: #eee;
+    color: $black;
+}
 
 .masthead-title .icon {
     display: none;
 }
 
-@media screen and (max-width: 30rem) {
+@media screen and (max-width: $large-breakpoint) {
     .masthead-title a:not(:first-child) {
         display:none;
     }
