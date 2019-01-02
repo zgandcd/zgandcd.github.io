@@ -3,7 +3,6 @@
 // Super small header above the content for site name and short description.
 
 header {
-  margin-bottom: 1rem;
 }
 
 header hr {
@@ -33,6 +32,10 @@ header h3 {
     text-decoration: none;
     font-size: 1.3rem;
     color: $black;
+}
+
+.masthead-title small.subtitle {
+  vertical-align: sub;
 }
 
 .masthead-title a.home {
