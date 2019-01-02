@@ -33,7 +33,6 @@ header h3 {
     text-decoration: none;
     font-size: 1.3rem;
     color: $black;
-    float: left;
 }
 
 .masthead-title a.home {
@@ -41,15 +40,6 @@ header h3 {
     float: left;
     font-size: 1.5rem;
     opacity: 1;
-}
-
-.masthead-title a.home:hover {
-    color: maroon;
-    background-color: $body-bg;
-}
-
-.masthead-title a.home:hover small {
-    color: $black;
 }
 
 .masthead-title a:hover {
