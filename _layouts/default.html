@@ -10,7 +10,7 @@ layout: compress
 
     <div class="container content">
       <header> <h3 class="masthead-title">
-        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }} class="home" </a><small>{{ site.tagline }}</small>
+        <a class="home" href="{{ site.baseurl }}/" title="Home">{{ site.title }} </a><small>{{ site.tagline }}</small>
           {% for page in site.pages_list %}
              <a href="{{ page[1]  }}" title="{{ page[0] }}"><small>{{ page[0] }}</small></a>
           {% endfor %}
