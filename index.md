@@ -8,5 +8,5 @@ Our wedding announcement is [here.](https://www.nytimes.com/2018/09/02/fashion/w
 
 Our original wedding website is preserved [here.](https://web.archive.org/web/20180821125924/https://www.zoeandconnor.com/)
 
-Wedding pictures can be found on [this page]({{ site.baseurl }}{% link pics %}), while reviews of our various vendors are on [this one.]({{ site.baseurl }}{% link reviews %})
+Wedding pictures can be found on [this page](zgandcd.github.io/pics), while reviews of our various vendors are on [this one.](zgandcd.github.io/reviews)
 
