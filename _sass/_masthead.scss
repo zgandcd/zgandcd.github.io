@@ -47,8 +47,31 @@ header h3 {
     padding-top: 0.7rem;
 }
 
-@media screen and (max-width: 26rem) {
-     .masthead-title small {
-      display:none;  
+@media screen and (max-width: 30rem) {
+    .masthead-title a:not(:first-child) {
+        display:none;
+    }
+
+    .masthead-title a.icon {
+        float: right;
+        display: block;
+    }
+    .masthead-title a.icon:hover {
+        background-color: $body-bg;
+    }
+    .masthead-title.responsive {
+        position:relative;
+    }
+
+    .masthead-title.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .masthead-title.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
     }
 }
