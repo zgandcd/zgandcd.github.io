@@ -79,6 +79,9 @@ header h3 {
     .masthead-title.responsive a {
         float: none;
         display: block;
-        text-align: left;
+        text-align: right;
+    }
+    .masthead-title.responsive a.home {
+        float: left;
     }
 }
