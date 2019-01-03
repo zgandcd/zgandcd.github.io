@@ -27,18 +27,7 @@ h3 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  padding-left: 1rem;
-  max-width: 50%;
-  float: left;
 }
-
-@media screen and (max-width: $large-breakpoint) {
-  p {
-    max-width:100%;
-    padding-left: 0rem;
-  }
-}
-
 
 strong {
   color: #303030;
