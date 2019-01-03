@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="img-responsive tall"}
-
+<div>![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="img-responsive tall"}</div>
+<div>
 There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. There is also a
 [slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
 
@@ -11,4 +11,4 @@ There were many many pictures taken, so we've compiled a few (somewhat) shorter 
 [Pictures by our friends in Chicago](https://photos.app.goo.gl/wRCdgRWRyR9agjzh7)
 
 [Pictures by Connor's Family](https://photos.app.goo.gl/sovaTzATW5V71z5h7)
-
+</div>
