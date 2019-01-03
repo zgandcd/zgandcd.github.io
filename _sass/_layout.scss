@@ -37,12 +37,3 @@ footer {
   }
 }
 
-img.tall {
-  max-width: 50%
-}
-
-@media screen and (max-width: 30rem) {
-  img.tall {
-    max-width: 100% 
-  }
-}
