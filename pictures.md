@@ -8,7 +8,7 @@ p {
   float: left;
 }
 
-@media screen and (max-width: $large-breakpoint) {
+@media screen and (max-width: 30rem) {
   p {
     max-width:100%;
     padding-left: 0rem;
@@ -18,8 +18,11 @@ p {
 
 ![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="tall"}
 
-There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. There is also a
-[slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
+<p></p>
+
+There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. 
+
+There is also a [slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
 
 [Pictures by the photographers](https://photos.app.goo.gl/sH6RaJ7KKf17oCTB6) -- The wonderful [Cro and Kow](https://www.croandkowlove.com)
 
