@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+<style type="text/css">
+p {  
+  padding-left: 1rem;
+  max-width: 50%;
+  float: left;
+}
+
+@media screen and (max-width: $large-breakpoint) {
+  p {
+    max-width:100%;
+    padding-left: 0rem;
+  }
+}
+</style>
+
 ![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="tall"}
 
 There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. There is also a
