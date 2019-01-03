@@ -5,8 +5,6 @@ baseurl:             https://zgandcd.github.io
 permalink:           :title/
 
 pages_list:       
-  Announcement: 'https://www.nytimes.com/2018/09/02/fashion/weddings/zoe-guengerich-connor-dowd.html'
-  Old Site: 'https://web.archive.org/web/20180821125924/https://www.zoeandconnor.com/'
   Reviews: '/reviews'
   Pictures: '/pictures'
 
