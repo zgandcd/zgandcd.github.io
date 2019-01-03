@@ -1,5 +1,4 @@
-# Post Wedding Website
-There are a couple goals here:
-1. share photos
-2. Write some reviews
-3. Generally thank folks?
+# To Do
+- reviews need a lot of work
+- check with zo on pictures page
+- add CNAME file, update baseurl, link to domain. 
