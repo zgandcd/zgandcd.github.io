@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="img-responsive"}
+![zgandcd]({{ site.baseurl }}{% link /public/both.jpg %}){:class="img-responsive tall"}
 
 There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. There is also a
 [slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
