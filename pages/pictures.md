@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: pictures
 ---
 <style type="text/css">
 p {  
