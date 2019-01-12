@@ -14,8 +14,3 @@ sass:
 author:
   name:              ZGCD
   url:               zgandcd.github.io
-
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-
