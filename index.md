@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Zoe and Connor got married!
 ---
 
 ![zgandcd]({{ site.baseurl }}{% link /public/forward.jpg %}){:class="img-responsive"}
