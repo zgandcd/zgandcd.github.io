@@ -1,7 +1,8 @@
 
 title:               Z&C
 tagline:             got married
-baseurl:             https://zgandcd.github.io
+url:                 https://zoeandconnor.com
+baseurl:             
 permalink:           :title/
 
 pages_list:       
