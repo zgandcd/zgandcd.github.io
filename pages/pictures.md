@@ -23,7 +23,7 @@ p {
 
 There were many many pictures taken, so we've compiled a few (somewhat) shorter albums with links below. 
 
-There is also a [slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
+There is a [slideshow by the photographers here.](https://www.croandkowlove.com/zoe-connor)
 
 [Pictures by the photographers](https://photos.app.goo.gl/sH6RaJ7KKf17oCTB6) -- The wonderful [Cro and Kow](https://www.croandkowlove.com)
 
